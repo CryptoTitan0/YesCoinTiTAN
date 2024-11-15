@@ -142,6 +142,6 @@ query_id=xxxxxxxxx-Rxxxxujhash=cxxxx
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
-For questions or support, please contact [CUCUMBER TG CHAT](https://t.me/cucumber_scripts_chat)
+For questions or support, please contact [Crypto Titan TG CHAT]( https://t.me/CryptoTitanchat​)
 
 # Thank You
