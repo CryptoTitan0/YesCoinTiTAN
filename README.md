@@ -59,7 +59,7 @@ This script/program supports several argument parameters that can be used. Here'
    
    Python
    ```shell
-   pkg install python3
+   pkg install python
    ```
    Git
    ```shell
