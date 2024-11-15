@@ -69,12 +69,12 @@ This script/program supports several argument parameters that can be used. Here'
 
 2. Clone this repository.
    ```shell
-   git clone https://github.com/CryptoTitan0/BluTitan.git
+   git clone https://github.com/CryptoTitan0/YesCoinTiTAN.git
    ```
 
 3. Enter the BluTitan folder
    ```
-   cd BluTitan
+   cd YesCoinTiTAN
    ```
 
 4. Install the required modules/libraries.
@@ -82,7 +82,7 @@ This script/program supports several argument parameters that can be used. Here'
    python -m pip install -r requirements.txt
    ```
 
-5. Edit the `data.txt` file, enter your query data into the `data.txt` file. One line for 1 account, if you want to add a 2nd account, fill it in on a new line.
+5. Edit the `query.txt` file, enter your query data into the `query.txt` file. One line for 1 account, if you want to add a 2nd account, fill it in on a new line.
 
 6. Run the program/script.
    ```
